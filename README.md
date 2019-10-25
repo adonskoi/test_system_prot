@@ -1,6 +1,6 @@
 # test_system_prot
 
-Command line utili to execute two test cases.
+Command line util to execute two test cases.
 
 ## Getting started
 
