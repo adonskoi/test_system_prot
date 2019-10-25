@@ -39,7 +39,7 @@ class BaseCase:
             m = self.prep()
         except Exception as e:
             print(e)
-            print("test did not start")
+            print("test fail on prepare")
             return success
         else:
             print(f"prep success: {m}")
